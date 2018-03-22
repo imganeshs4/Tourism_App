@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Genjitsu</string>
+    <string name="instructions">Please Swipe</string>
+    <string-array name="desserts">
+
+        <item><font size="40">Basic facts about Rajasthan :</font>\n\n\n\n
+         • Capital - Jaipur\n\n
+         • Official Language - Hindi\n\n
+         • Main Spoken Language - Hindi,Marwari,Shekhawati,Bagri.\n\n
+         • Population - 6,86,21,012\n\n
+         • Number of District - 33\n\n\n
+</item>
+        <item><b><font size="40">Historical facts about Rajasthan :</font></b>\n\n\n
+
+     • The literal meaning of Rajasthan is the place of kings\n\n
+     • Kalibanga of Indus valley civilization falls in this state.\n\n
+     • The state was known for Rajasthan warrior and Jat warrior.\n
+</item>
+        <item><b><font size="40">Geographical Facts about Rajasthan :</font></b>\n\n\n
+
+     • Rajasthan shares borders with 5 Indian states and Pakistan in the west.\n\n
+     • Major Rivers - Chambar,Byas,Lumi.\n\n
+     • Biggest State by Area in India.\n\n
+     • Jaipur and Udaipur are a popular tourist destination.\n\n
+     • Udaipur is known for lakes and Jaipur is called as Pink city.\n
+</item>
+
+        <item><b><font size="40">Common Slangs/Words used in Rajasthan :</font></b>\n\n\n
+     • I: Main/manne\n\n
+     • Come : Aawo, padharo\n
+     • Open: Khulo\n
+     • Sit: Baitho\n
+     • Walk: Chaal\n
+     • Eat: Kha\n
+     • Drink: Piyo\n
+     • Go: Jawo\n
+     • Run: Bhago\n
+     • Yesterday: Kaal\n
+             • What is your name: Tharo naam kaain hein?</item>
+        <item><b><font size="40">Continued....</font></b>\n\n\n
+     • What: Kaain?\n
+     • Is: Chhe\n
+     • Your: Tharo\n
+     • Name: Naam\n
+     • What should I do: Main kaain karoon?\n
+     • How much distance to go: Aur kitto door jaano hai?\n
+     • Which way did you come: Tu kun sa rasta se aayo?\n
+     • Where should I go: Main kathe jaaun?\n
+     • Is it the answer: Yo uttar hai kaain?\n
+     • How are you: Tu kiso hai? / They kisaa ho?\n
+     • I am fine: Main thik thak hu.
+</item>
+
+        <item>
+            <font size="40">Social and Cultural facts about Rajasthan :</font>\n\n\n
+
+     • Hawa Mahal is the iconic symbol of Jaipur and Rajasthan.\n
+    Pink stone were used to build it.\n
+    It was built for the purpose that Rayal ladies could see\n the outside street without being seen from the outside.\n
+    Khayal Dance is the important folk dance of the state\n
+    Kachchi Ghodi is the most popular folk dance\n
+    Bhangarh of Rajasthan is consdired as a haunted place.\n
+
+</item>
+    </string-array>
+</resources>
+
+
+

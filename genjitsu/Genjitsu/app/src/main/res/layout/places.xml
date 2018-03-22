@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/finalmap">
+    <TextView android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        android:text="Nearest Attractions"
+        android:textColor="#fff"
+        android:textSize="40dp"
+        android:background="@drawable/gradient3"
+        android:layout_marginBottom="10dp"/>
+    <ScrollView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_marginTop="40dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:orientation="vertical">
+
+<LinearLayout android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="25dp"
+    android:layout_marginLeft="20dp"
+    >
+    <ImageView
+        android:layout_width="165px"
+        android:layout_height="165px"
+        android:src="@drawable/hawamahal"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="8dp"
+        android:shadowRadius="5"
+        android:shadowDx="7"
+        android:shadowDy="8"
+        android:shadowColor="#aff"
+        android:text="Hawa Mahal"
+        android:textSize="25dp"
+        android:textColor="#fff"/><Button android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:text="Buy Tickets"
+    android:textColor="#fff"
+    android:paddingTop="6dp"
+    android:id="@+id/b1"
+    android:background="@android:color/transparent"/>
+</LinearLayout>
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="165px"
+            android:layout_height="165px"            android:src="@drawable/amberfort"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="8dp"
+            android:text="Abmer Fort"
+            android:textSize="25dp"
+            android:shadowRadius="5"
+            android:shadowDx="7"
+            android:shadowDy="8"
+            android:shadowColor="#aff"
+            android:textColor="#fff"/><Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="Buy Tickets"
+        android:textColor="#fff"
+        android:paddingTop="6dp"
+        android:id="@+id/b2"
+        android:background="@android:color/transparent"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="20dp">
+        <ImageView
+            android:layout_width="165px"
+            android:layout_height="165px"
+            android:src="@drawable/alberthall"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="8dp"
+            android:shadowRadius="5"
+            android:shadowDx="7"
+            android:shadowDy="8"
+            android:shadowColor="#aff"
+            android:text="Abmer Fort"
+            android:textSize="25dp"
+            android:textColor="#fff"/><Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="Buy Tickets"
+        android:textColor="#fff"
+        android:paddingTop="6dp"
+        android:id="@+id/b3"
+        android:background="@android:color/transparent"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="20dp">
+        <ImageView
+            android:layout_width="165px"
+            android:layout_height="165px"
+            android:src="@drawable/jalmahal"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="8dp"
+            android:text="Abmer Fort"
+            android:shadowRadius="5"
+            android:shadowDx="7"
+            android:shadowDy="8"
+            android:shadowColor="#aff"
+            android:textColor="#fff"/><Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="Buy Tickets"
+        android:textColor="#fff"
+        android:paddingTop="6dp"
+        android:id="@+id/b4"
+        android:background="@android:color/transparent"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="20dp">
+        <ImageView
+            android:layout_width="165px"
+            android:layout_height="165px"
+            android:src="@drawable/jantarmantar"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textSize="25dp"
+            android:shadowRadius="5"
+            android:shadowDx="7"
+            android:shadowDy="8"
+            android:shadowColor="#aff"
+            android:layout_marginTop="8dp"
+            android:text="Jantar Mantar"
+            android:textColor="#fff"/><Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="Buy Tickets"
+        android:textColor="#fff"
+        android:paddingTop="6dp"
+        android:id="@+id/b5"
+        android:background="@android:color/transparent"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="20dp">
+        <ImageView
+            android:layout_width="165px"
+            android:layout_height="165px"
+            android:src="@drawable/naragarhfort"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="8dp"
+            android:textSize="25dp"
+            android:shadowRadius="5"
+            android:shadowDx="7"
+            android:shadowDy="8"
+            android:shadowColor="#aff"
+            android:text="NaharGarh Fort"
+            android:textColor="#fff"/><Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="Buy Tickets"
+        android:textColor="#fff"
+        android:paddingTop="6dp"
+        android:id="@+id/b6"
+        android:background="@android:color/transparent"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp">
+        <ImageView
+            android:layout_width="165px"
+            android:layout_height="165px"
+            android:src="@drawable/jaighar"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textSize="25dp"
+            android:shadowRadius="5"
+            android:shadowDx="7"
+            android:shadowDy="8"
+            android:shadowColor="#aff"
+            android:layout_marginTop="8dp"
+            android:text="JaiGarh Fort"
+            android:textColor="#fff"/><Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="Buy Tickets"
+        android:textColor="#fff"
+        android:paddingTop="6dp"
+        android:id="@+id/b7"
+        android:background="@android:color/transparent"/>
+    </LinearLayout>
+
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

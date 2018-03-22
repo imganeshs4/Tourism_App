@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1089741688803",
+    "firebase_url": "https://genjitsu-7c75e.firebaseio.com",
+    "project_id": "genjitsu-7c75e",
+    "storage_bucket": "genjitsu-7c75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089741688803:android:498d10181f4edeac",
+        "android_client_info": {
+          "package_name": "rgblabs.com.genjitsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089741688803-a3vu3htaj5doaepnig8gmqdscsac761m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmNu_ooM4uiEhw5YvEY-JdBEQTC94pL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
